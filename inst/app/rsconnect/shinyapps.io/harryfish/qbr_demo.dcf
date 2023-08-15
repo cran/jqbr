@@ -1,0 +1,11 @@
+name: qbr_demo
+title:
+username:
+account: harryfish
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 4294449
+bundleId: 6247361
+url: https://harryfish.shinyapps.io/qbr_demo/
+when: 1661763315.76552
+lastSyncTime: 1661763315.76555
